@@ -1,17 +1,13 @@
 /*
   Tank Bot
-  
-  Parts:
+  Justin C Kirk
 
-  4 x DC Hobby Motors Motors + Tires
-  1 x L298N DC Motor Driver
-  1 x Arduino Nano
-  1 x Nano Breakout Board with headers for NRF2401 Module
-  1 x NRF24l01 2.4GHz RF Transceiver
-  1 x 5 AA Battery Holder
-  5 x 1.2V NiMh AA Batteries
-  1 x Breadboard Half Size
-  1 x HC-05 Ultrasonic Sensor
+  Makerinchief 
+  www.makerinchief.com
+  info@makerinchief.com
+
+  Please read README.md for details
+  
 */
 
 #include "datatypes.h"
